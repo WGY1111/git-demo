@@ -12,8 +12,5 @@ hello wgy
 hello wgy
 hello wgy
 hello wgy
-<<<<<<< HEAD
 hello wgy a
-=======
 hello wgy b
->>>>>>> hot-fix
